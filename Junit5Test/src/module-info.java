@@ -1,0 +1,3 @@
+module Junit5Test {
+	
+}
